@@ -1,14 +1,19 @@
 {
-  "movies": [
+  "cities": [
     {
       "id": 1,
-      "title": "Inception",
-      "year": 2020
+      "title": "Beijing",
+      "poster": "https://www.google.com/imgres?q=beijing&imgurl=https%3A%2F%2Fblog.goldsupplier.com%2Fwp-content%2Fuploads%2F2024%2F12%2Ftrip-to-beijing-china-1.png&imgrefurl=https%3A%2F%2Fblog.goldsupplier.com%2Ftrip-to-beijing-china%2F&docid=lHdCNdhH49Ts0M&tbnid=ZvpEpZl1K9OR-M&vet=12ahUKEwibt8Oe4JuMAxWgT2wGHbt4B2gQM3oECGUQAA..i&w=1073&h=1073&hcb=2&ved=2ahUKEwibt8Oe4JuMAxWgT2wGHbt4B2gQM3oECGUQAA"
     },
     {
       "id": 2,
-      "title": "Interstellar",
-      "year": 2014
+      "title": "Newyork",
+      "poster": "https://www.google.com/imgres?q=new%20york&imgurl=https%3A%2F%2Fwww.travelguide.net%2Fmedia%2Fnew-york.jpeg&imgrefurl=https%3A%2F%2Fwww.travelguide.net%2Fnew-york%2F&docid=H4ORKAniT5TJ3M&tbnid=TVVuYwtCeFBRJM&vet=12ahUKEwj8kc634JuMAxWJR2wGHfLEMIMQM3oECBgQAA..i&w=2400&h=1600&hcb=2&ved=2ahUKEwj8kc634JuMAxWJR2wGHfLEMIMQM3oECBgQAA"
+    },
+    {
+      "id": 3,
+      "title": "Singapore",
+      "poster": "https://www.google.com/imgres?q=singapre&imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fmsid-107700466%2Cwidth-748%2Cheight-499%2Cresizemode%3D4%2Cimgsize-119838%2F.jpg&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Ftravel%2Fdestinations%2Fsingapores-beautiful-places-explore-the-magic%2Fphotostory%2F107700311.cms&docid=vx4uNw7S80xttM&tbnid=DyEwc7uO4DJl7M&vet=12ahUKEwj4ioXC4JuMAxVsS2wGHWwNI2EQM3oECFcQAA..i&w=748&h=499&hcb=2&ved=2ahUKEwj4ioXC4JuMAxVsS2wGHWwNI2EQM3oECFcQAA"
     }
   ]
 }
