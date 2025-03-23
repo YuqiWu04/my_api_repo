@@ -9,13 +9,13 @@
     {
       "id": 2,
       "title": "Newyork",
-      "top_attractions"："Statue of Liberty and Ellis Island, Central Park, Empire State Building",
+      "top_attractions":"Statue of Liberty and Ellis Island, Central Park, Empire State Building",
       "poster": "https://www.travelguide.net/media/1200x800/new-york-1200x800.avif"
     },
     {
       "id": 3,
       "title": "Singapore",
-      "top_attractions"："Gardens by the Bay，Marina Bay Sands SkyPark，Singapore Zoo",
+      "top_attractions":"Gardens by the Bay，Marina Bay Sands SkyPark，Singapore Zoo",
       "poster": "https://images.goway.com/production/styles/wide/s3/featured_images/shutterstock_1116483092.jpg?VersionId=TdMumBsWTDvKGaT6bbv.b5XO4PZqWzwf&itok=qRqmrUHQ"
     }
   ]
