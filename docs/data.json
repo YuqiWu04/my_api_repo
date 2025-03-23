@@ -3,28 +3,28 @@
     {
       "id": 1,
       "title": "Beijing",
-      "top_attractions":"Tiananmen Square，Great Wall，Sanlitun Shopping Centre",
-      "optimal_budget$":1000,
-      "stars":"\u2728 \u2728 \u2728 \u2728 \u2728",
-      "best_season":"Wintter and automn",
+      "top_attractions": "Tiananmen Square, Great Wall, Sanlitun Shopping Centre",
+      "optimal_budget_usd": 1000,
+      "rating": 5,
+      "best_season": "Winter and autumn",
       "poster": "https://www.tripsavvy.com/thmb/HTSkiuqmXm0C5a6a8NLjnhy7mc8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/beijing-central-business-district-buildings-skyline--china-cityscape-477749918-ddee5166b7474fd881b53f87244cc6d2.jpg"
     },
     {
       "id": 2,
-      "title": "Newyork",
-      "top_attractions":"Statue of Liberty and Ellis Island, Central Park, Empire State Building",
-      "optimal_budget$":2500,
-      "stars":"\u2728 \u2728 \u2728 \u2728",
-      "best_season":"Wintter,automn,spring",
+      "title": "New York", 
+      "top_attractions": "Statue of Liberty and Ellis Island, Central Park, Empire State Building",
+      "optimal_budget_usd": 2500,
+      "rating": 4,
+      "best_season": "Winter, autumn, spring",
       "poster": "https://www.travelguide.net/media/1200x800/new-york-1200x800.avif"
     },
     {
       "id": 3,
       "title": "Singapore",
-      "top_attractions":"Gardens by the Bay，Marina Bay Sands SkyPark，Singapore Zoo",
-      "optimal_budget$":1800,
-      "stars":"\u2728 \u2728 \u2728 \u2728 \u2728",
-      "best_season":"whole year",
+      "top_attractions": "Gardens by the Bay, Marina Bay Sands SkyPark, Singapore Zoo",
+      "optimal_budget_usd": 1800,
+      "rating": 5,
+      "best_season": "Year-round",
       "poster": "https://images.goway.com/production/styles/wide/s3/featured_images/shutterstock_1116483092.jpg?VersionId=TdMumBsWTDvKGaT6bbv.b5XO4PZqWzwf&itok=qRqmrUHQ"
     }
   ]
