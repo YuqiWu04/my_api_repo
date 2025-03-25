@@ -1,7 +1,7 @@
 {
   "cities": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Beijing",
       "top_attractions": "Tiananmen Square, Great Wall, Sanlitun Shopping Centre",
       "optimal_budget_usd": 1000,
@@ -11,7 +11,7 @@
       "https://res.cloudinary.com/enchanting/q_70,f_auto,c_lfill,g_auto/exodus-web/2021/12/34505.jpg"]
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "New York", 
       "top_attractions": "Statue of Liberty and Ellis Island, Central Park, Empire State Building",
       "optimal_budget_usd": 2500,
@@ -20,7 +20,7 @@
       "poster": ["https://www.travelguide.net/media/1200x800/new-york-1200x800.avif","https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/shutterstock_329662223_ss_non-editorial_3_csm8lw?_a=BAVAZGDX0"]
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Singapore",
       "top_attractions": "Gardens by the Bay, Marina Bay Sands SkyPark, Singapore Zoo",
       "optimal_budget_usd": 1800,
